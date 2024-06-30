@@ -17,4 +17,4 @@ This project, SmileSchool, was created to practice and showcase my CSS skills. T
 - HTML
 - CSS
 
-## Preview
+
